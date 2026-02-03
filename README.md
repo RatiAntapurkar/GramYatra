@@ -1,5 +1,5 @@
 
-```markdown
+
 # GramYatra
 
 GramYatra is a web-based platform designed to promote rural tourism by connecting travelers with village experiences, local culture, and stays.
