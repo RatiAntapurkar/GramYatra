@@ -7,25 +7,32 @@ GramYatra is a web-based platform designed to promote rural tourism by connectin
 ## 🚀 How to Clone the Repository
 
 1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/RatiAntapurkar/GramYatra.git](https://github.com/RatiAntapurkar/GramYatra.git)
-
+```bash
+git clone https://github.com/RatiAntapurkar/GramYatra.git
 ```
 
 2. **Install Dependencies:**
 Run the following commands to install packages for each folder:
 ```bash
 cd GramYatra
-
-# Frontend
-cd frontend && npm install && cd ..
-
-# Backend
-cd backend && npm install && cd ..
-
-# Admin
-cd admin && npm install && cd ..
-
+```
+### Frontend
+```bash
+cd frontend
+npm install
+cd ..
+```
+### Backend
+```bash
+cd backend
+npm install
+cd ..
+```
+### Admin
+```bash
+cd admin
+npm install
+cd ..
 ```
 
 
